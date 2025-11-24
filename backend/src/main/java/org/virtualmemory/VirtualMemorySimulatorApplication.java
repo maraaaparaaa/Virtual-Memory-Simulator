@@ -9,5 +9,4 @@ public class VirtualMemorySimulatorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VirtualMemorySimulatorApplication.class, args);
 	}
-
 }
